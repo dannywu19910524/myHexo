@@ -1,1 +1,1 @@
-scp -r blog/ root@hdwu.net:/var/www/html/
+scp -r blog/ root@139.162.24.197:/var/www/html/
